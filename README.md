@@ -7,4 +7,5 @@
 - [課堂練習2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
 # 作業連結區  
 - [作業一](https://github.com/miilearn/111-2PL/blob/main/HW1.ipynb)
+- [作業二](https://github.com/miilearn/111-2PL/blob/main/HW2.ipynb)
 # 專題連結區  
