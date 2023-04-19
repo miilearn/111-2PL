@@ -9,4 +9,5 @@
 # 作業連結區  
 - [作業一](https://github.com/miilearn/111-2PL/blob/main/HW1.ipynb)
 - [作業二](https://github.com/miilearn/111-2PL/blob/main/HW2.ipynb)
+- [作業三](https://github.com/miilearn/111-2PL/blob/main/HW3.ipynb)、[json檔](https://github.com/miilearn/111-2PL/blob/main/korea_travel.json)
 # 專題連結區  
