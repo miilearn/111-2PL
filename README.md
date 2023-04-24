@@ -3,11 +3,11 @@
 姓名:李米蕙  
 系級:科技系二年級  
 # 課程筆記區  
-- [課堂練習1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
-- [課堂練習2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
-- [課堂練習3](https://github.com/miilearn/111-2PL/blob/main/Task3.ipynb)
+- [exercise1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
+- [exercise2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
+- [exercise3](https://github.com/miilearn/111-2PL/blob/main/Task3.ipynb)
 # 作業連結區  
-- [作業一](https://github.com/miilearn/111-2PL/blob/main/HW1.ipynb)
-- [作業二](https://github.com/miilearn/111-2PL/blob/main/HW2.ipynb)
-- [作業三](https://github.com/miilearn/111-2PL/blob/main/HW3.ipynb)、[json檔](https://github.com/miilearn/111-2PL/blob/main/korea_travel.json)
+- [HW1](https://github.com/miilearn/111-2PL/blob/main/HW1.ipynb)
+- [HW2](https://github.com/miilearn/111-2PL/blob/main/HW2.ipynb)
+- [HW3](https://github.com/miilearn/111-2PL/blob/main/HW3.ipynb)、[json檔](https://github.com/miilearn/111-2PL/blob/main/korea_travel.json)
 # 專題連結區  
