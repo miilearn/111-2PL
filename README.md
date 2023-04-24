@@ -2,7 +2,7 @@
 授課教師:蔡芸琤老師  
 姓名:李米蕙  
 系級:科技系二年級  
-# 課程練習區
+# 課堂練習區
 - [Exercise1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
 - [Exercise2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
 - [Exercise3](https://github.com/miilearn/111-2PL/blob/main/Task3.ipynb)
