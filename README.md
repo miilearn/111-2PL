@@ -3,6 +3,9 @@
 姓名:李米蕙  
 系級:科技系二年級  
 # 課程筆記區
+> W1
+>> - [README](https://markdown.tw/)
+>> - [References](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml)
 # 課堂練習區
 - [Exercise1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
 - [Exercise2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
