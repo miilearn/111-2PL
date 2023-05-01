@@ -8,7 +8,10 @@
 >> - [Last semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml) / [This semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBeY4-E_d9eBNKEcFV0eiGAFsMOk-ZYCmTLGmQ5_yWYkJcxXXBQI8rOkaqPyIktU4SgS7Rg0IQdZJ4/pubhtml#)
 >> - [Python](https://docs.python.org/3/tutorial/index.html)
 >> - [Data normalization](https://regexr.com/)
+>
+>Graph
 >> - [plotly](https://plotly.com/python/)
+>> - [worldcloud](https://github.com/amueller/word_cloud)
 # 課堂練習區
 - [Exercise1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
 - [Exercise2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
