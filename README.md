@@ -16,6 +16,9 @@
 > Web crawler
 >> - [video](https://regexr.com/)
 >
+> Text mining
+>> - [video](https://www.youtube.com/watch?v=HGPPoaBxyb0)
+>
 > Graph
 >> - [plotly](https://plotly.com/python/)
 >> - [worldcloud](https://github.com/amueller/word_cloud)
