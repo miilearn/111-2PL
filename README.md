@@ -7,8 +7,7 @@
 >> - [README](https://markdown.tw/)
 >> - [Last semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml) / [This semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBeY4-E_d9eBNKEcFV0eiGAFsMOk-ZYCmTLGmQ5_yWYkJcxXXBQI8rOkaqPyIktU4SgS7Rg0IQdZJ4/pubhtml#)
 >> - [Python](https://docs.python.org/3/tutorial/index.html)
->> data source
->>> - [Gov open platform](https://data.gov.tw/)
+>> - [Kaggle](https://www.kaggle.com/competitions)
 >
 > Regular expression
 >> - [Rules](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
@@ -23,6 +22,11 @@
 > Graph
 >> - [plotly](https://plotly.com/python/)
 >> - [worldcloud](https://github.com/amueller/word_cloud)
+>
+> data source
+>> - [UCI data sets](https://archive.ics.uci.edu/ml/datasets.php)
+>> - [Gov open platform](https://data.gov.tw/)
+
 # 課堂練習區
 - [Exercise1](https://github.com/miilearn/111-2PL/blob/main/Task1.ipynb)
 - [Exercise2](https://github.com/miilearn/111-2PL/blob/main/Task2.ipynb)
