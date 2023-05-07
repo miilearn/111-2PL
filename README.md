@@ -4,7 +4,7 @@
 系級:科技系二年級  
 # 課程筆記區
 > References
->> - [README](https://markdown.tw/)
+>> - [Markdown](https://markdown.tw/)
 >> - [Last semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml) / [This semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBeY4-E_d9eBNKEcFV0eiGAFsMOk-ZYCmTLGmQ5_yWYkJcxXXBQI8rOkaqPyIktU4SgS7Rg0IQdZJ4/pubhtml#)
 >> - [Python](https://docs.python.org/3/tutorial/index.html)
 >> - [Kaggle](https://www.kaggle.com/competitions)
