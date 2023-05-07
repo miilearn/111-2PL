@@ -14,14 +14,19 @@
 >> - [Test platform](https://regexr.com/)
 >
 > Web crawler
->> - [video](https://regexr.com/)
+>> - [video](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
+>> - [google-scholar](https://github.com/linhung0319/google-scholar-crawler)
+>> - [PTT](https://github.com/jwlin/ptt-web-crawler)
 >
 > Text mining
 >> - [video](https://www.youtube.com/watch?v=HGPPoaBxyb0)
 >
 > Graph
->> - [plotly](https://plotly.com/python/)
->> - [worldcloud](https://github.com/amueller/word_cloud)
+>> - [Plotly](https://plotly.com/python/)
+>> - [Worldcloud](https://github.com/amueller/word_cloud)
+>> - [TextBlob](https://github.com/sloria/TextBlob)
+>> - [Termgraph](https://github.com/mkaz/termgraph)
+>> - [Glances](https://github.com/nicolargo/glances)
 >
 > data source
 >> - [UCI data sets](https://archive.ics.uci.edu/ml/datasets.php)
