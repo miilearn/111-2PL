@@ -41,4 +41,5 @@
 - [HW2](https://github.com/miilearn/111-2PL/blob/main/HW2.ipynb)
 - HW3 [PTT crawler Code](https://github.com/miilearn/111-2PL/blob/main/HW3.ipynb)、[json](https://github.com/miilearn/111-2PL/blob/main/korea_travel.json)
 - HW4 [Text Mining Code](https://github.com/miilearn/111-2PL/blob/main/HW4.ipynb)、[Medium](https://medium.com/@a0968340013/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%81%B7%E7%BC%BA%E9%A1%9E%E5%9E%8B-b7d42c9c1a27)
+- HW5 [Co Occurrence Analysis Code](https://github.com/miilearn/111-2PL/blob/main/HW5.ipynb)、[Medium](https://medium.com/@a0968340013/c5861ff70459)
 # 專題連結區  
