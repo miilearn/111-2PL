@@ -45,4 +45,4 @@
 # 專題連結區  
 - [活動爬蟲程式碼](https://github.com/kuyuyu/PL/tree/main/final)
 - [新聞爬蟲程式碼](https://github.com/miilearn/111-2PL/tree/main/Final)
-- [期末發表](https://www.youtube.com/watch?v=blNKPgFWVgo)
+- [期末發表影片](https://www.youtube.com/watch?v=blNKPgFWVgo)
