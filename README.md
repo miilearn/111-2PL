@@ -46,5 +46,5 @@
 - [活動爬蟲程式碼](https://github.com/kuyuyu/PL/tree/main/final)
 - [新聞爬蟲程式碼](https://github.com/miilearn/111-2PL/tree/main/Final)
 - [PPT](https://docs.google.com/presentation/d/1qxGQlidf6meC6EHfGczCqANSw-PaqwmITnvVaB4CMf4/edit#slide=id.ged3401ed36_1_0)
-- [Figma](https://www.figma.com/file/A0RZXRU1NHPe2YOE2LPDqb/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80?type=design&node-id=0%3A1&t=zyS9Lah9mefwmsKk-1)
+- [Figma](https://www.figma.com/proto/A0RZXRU1NHPe2YOE2LPDqb/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80?node-id=0%3A1)
 - [期末發表影片](https://www.youtube.com/watch?v=blNKPgFWVgo)
